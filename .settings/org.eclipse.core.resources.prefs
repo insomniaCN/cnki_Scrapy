@@ -1,0 +1,8 @@
+eclipse.preferences.version=1
+encoding//cnkiSpider_master/cnkiSpider/items.py=utf-8
+encoding//cnkiSpider_master/cnkiSpider/pipelines.py=utf-8
+encoding//cnkiSpider_master/cnkiSpider/settings.py=utf-8
+encoding//cnkiSpider_master/cnkiSpider/spiders/cnki_spiders.py=utf-8
+encoding//cnkiSpider_master/cnkiSpider/spiders/getTargetPage.py=utf-8
+encoding//cnkiSpider_master/cnkiSpider/spiders/spiderGUI.py=utf-8
+encoding//cnkiSpider_master/json2sql.py=UTF-8
